@@ -13,3 +13,4 @@ Listings data file : contains airbnbs listings data
 
 [Blogpostfiles.zip](https://github.com/sarathchandratumuluri/Udacity_Datascience/files/6216360/Blogpostfiles.zip)
 
+Medium blog post link: https://sarathchandra-tumuluri.medium.com/plan-your-vacation-to-hawaii-islands-based-on-data-cee987a3cce9
